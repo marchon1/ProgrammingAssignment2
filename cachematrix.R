@@ -1,4 +1,4 @@
-## 2 functions to create and store a vector and cache its mean
+## 2 functions to create and store a vector and cache its inverse
 
 ## This function creates a list to get and set value of inverse matrix
 
