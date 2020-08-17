@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## 2 functions to create and store a vector and cache its mean
 
-## Write a short comment describing this function
+## This function creates a list to get and set value of inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
@@ -17,7 +16,6 @@ makeCacheMatrix <- function(x = matrix()) {
        getinverse = getinverse)
 }
 
-## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
